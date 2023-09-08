@@ -8,9 +8,9 @@
 
 ### 🎨🎨🎨 Skills 🎨🎨🎨
 
-    #### Scientific method driven problem solving
+####         Scientific method driven problem solving
 
-    #### Python Data Wrangling
+#### Python Data Wrangling
 
 #### Arduino
 
