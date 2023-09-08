@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Luis
+## Hi there 👋, I'm Luis
 
-#### Chemical Engineer 🧪
+### Chemical Engineer 🧪
 
-#### Ms. C. Materials Science ⚗️
+### Ms. C. Materials Science ⚗️
 
-#### Currently studying Ph.D on Materials Science 🔬
+### Currently studying Ph.D on Materials Science 🔬
 
 
 <!--
