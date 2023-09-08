@@ -8,14 +8,22 @@
 
 ### 🎨🎨🎨 Skills 🎨🎨🎨
 
-#### Scientific method driven problem solving
-#### Python Data Wrangling,
+    #### Scientific method driven problem solving
+
+    #### Python Data Wrangling
+
 #### Arduino
+
 #### Electron Microscopy (SEM, TEM)
+
 #### 3D printing
+
 #### CAD design (Solidworks)
+
 #### Sensors
+
 #### Chemist skills (lab work, experimental systems, specialized data analysis... )
+
 #### Expertise on Thermal Analysis Techniques (TGA, DSC, TMA, Thermal Conductivity... )
 
 
