@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Luis
+
+#### Chemical Engineer 🧪
+
+#### Ms. C. Materials Science ⚗️
+
+#### Currently studying Ph.D on Materials Science 🔬
+
 
 <!--
 **luiscarp/luiscarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
