@@ -29,12 +29,17 @@
 
 ### 🌱 I’m currently learning 
 
-#### Fullstack developing
+#### -Fullstack developing
 ##### HTML5, CSS3, Bootstrap, Tailwind...
 
-#### Data science techniques (advanced data wrangling, data visualization, statistical analysis, data driven decision making, machine learning data analysis... )
 
-#### Advanced Materials Science Characterization Techniques (XRD, XPS, EELS, electron diffraction, electron microscopy)
+#### - Data science techniques (advanced data wrangling, data visualization, statistical analysis, data driven decision making, machine learning data analysis... )
+##### Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+
+
+#### - Advanced Materials Science Characterization Techniques (XRD, XPS, EELS, electron diffraction, electron microscopy)
+
+
 
 ### 👯 I’m looking to collaborate on data science projects and web development projects 
 
