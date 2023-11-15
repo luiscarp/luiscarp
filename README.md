@@ -29,8 +29,10 @@
 
 ### 🌱 I’m currently learning 
 
+
+#### -Machine Learning supervised and unsupervised algorithms
 #### -Fullstack developing
-##### HTML5, CSS3, Bootstrap, Tailwind...
+##### HTML5, CSS, Tailwind, Javascript, Node.Js, React, Next.Js, Flask
 
 
 #### - Data science techniques (advanced data wrangling, data visualization, statistical analysis, data driven decision making, machine learning data analysis... )
