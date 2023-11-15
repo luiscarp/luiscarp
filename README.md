@@ -8,11 +8,17 @@
 
 ### 🎨🎨🎨 Skills 🎨🎨🎨
 
+#### -Machine Learning supervised and unsupervised algorithms
+
+#### -Fullstack developer
+
+#### HTML5, CSS, Tailwind, Javascript, Node.Js, React, Next.Js, Flask
+
 #### - Scientific method driven problem solving
 
 #### - Python Data Wrangling
 
-#### - Arduino
+#### - Arduino and Raspberry pi
 
 #### - Electron Microscopy (SEM, TEM)
 
@@ -30,18 +36,11 @@
 ### 🌱 I’m currently learning 
 
 
-#### -Machine Learning supervised and unsupervised algorithms
-#### -Fullstack developing
-##### HTML5, CSS, Tailwind, Javascript, Node.Js, React, Next.Js, Flask
-
-
 #### - Data science techniques (advanced data wrangling, data visualization, statistical analysis, data driven decision making, machine learning data analysis... )
-##### Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
+##### Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Tensorflow, Keras
 
 #### - Advanced Materials Science Characterization Techniques (XRD, XPS, EELS, electron diffraction, electron microscopy)
-
-
 
 ### 👯 I’m looking to collaborate on data science projects and web development projects 
 
