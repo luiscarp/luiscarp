@@ -12,7 +12,7 @@
 
 #### -Fullstack developer
 
-#### HTML5, CSS, Tailwind, Javascript, Node.Js, React, Next.Js, Flask
+#### HTML5, CSS, Tailwind, Javascript, Node.Js, React, Next.Js, Flask, MySQL, MongoDB
 
 #### - Scientific method driven problem solving
 
